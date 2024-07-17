@@ -1,0 +1,64 @@
+name: flutter_app
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  http : ^1.0.6
+  google_fonts: ^6.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  flutter_svg: ^2.0.10+1
+
+flutter:
+  uses-material-design: true
+  assets:
+  - assets/vectors/star_filled_x2.svg
+  - assets/vectors/search_regular_1_x2.svg
+  - assets/vectors/map_marker_regular_x2.svg
+  - assets/vectors/chevron_down_regular_1_x2.svg
+  - assets/vectors/menu_regular_3_x2.svg
+  - assets/vectors/star_filled_2_x2.svg
+  - assets/vectors/sliders_hregular_x2.svg
+  - assets/vectors/reception_x2.svg
+  - assets/vectors/wifi_x2.svg
+  - assets/vectors/container_5_x2.svg
+  - assets/vectors/star_filled_3_x2.svg
+  - assets/images/avatar.png
+  - assets/vectors/container_x2.svg
+  - assets/vectors/map_marker_regular_1_x2.svg
+  - assets/vectors/full_food_image_x2.svg
+  - assets/vectors/menu_regular_1_x2.svg
+  - assets/vectors/shopping_basket_regular_1_x2.svg
+  - assets/vectors/wifi_2_x2.svg
+  - assets/vectors/chevron_down_regular_2_x2.svg
+  - assets/vectors/reception_2_x2.svg
+  - assets/vectors/plus_square_regular_1_x2.svg
+  - assets/vectors/minus_square_regular_x2.svg
+  - assets/vectors/star_filled_4_x2.svg
+  - assets/images/screen_2.png
+  - assets/images/screen_1.png
+  - assets/images/screen_3.png
+  - assets/vectors/container_4_x2.svg
+  - assets/vectors/wifi_3_x2.svg
+  - assets/vectors/container_2_x2.svg
+  - assets/vectors/map_marker_regular_2_x2.svg
+  - assets/vectors/star_filled_1_x2.svg
+  - assets/vectors/search_regular_x2.svg
+  - assets/vectors/star_filled_6_x2.svg
+  - assets/vectors/menu_regular_x2.svg
+  - assets/vectors/chevron_down_regular_x2.svg
+  - assets/vectors/sliders_hregular_1_x2.svg
+  - assets/vectors/footer_x2.svg
+  - assets/vectors/reception_3_x2.svg
+
